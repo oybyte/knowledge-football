@@ -1,0 +1,11 @@
+.idea/
+index.json
+store.sqlite
+uploads/
+*.sqlite
+*.db
+*.log
+*.tmp
+.cache/
+.cache/**
+attachments/
